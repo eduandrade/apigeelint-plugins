@@ -1,0 +1,12 @@
+{
+  "name": "apigeelint-custom-plugins",
+  "version": "0.0.1",
+  "description": "Node module to test my custom Apigeelint plugins.",
+  "scripts": {
+    "test": "mocha testMyCustomRules.js"
+  },
+  "devDependencies": {
+    "apigeelint": "latest",
+    "mocha": "^9.1.3"
+  }
+}
